@@ -1,0 +1,2 @@
+# parallax
+belajar git remote
